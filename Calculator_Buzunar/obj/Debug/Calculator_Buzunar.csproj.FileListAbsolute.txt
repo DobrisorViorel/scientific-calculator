@@ -1,0 +1,30 @@
+C:\Users\Viorel\source\repos\Calculator_Buzunar\Calculator_Buzunar\bin\Debug\Calculator_Buzunar.exe.config
+C:\Users\Viorel\source\repos\Calculator_Buzunar\Calculator_Buzunar\bin\Debug\Calculator_Buzunar.exe
+C:\Users\Viorel\source\repos\Calculator_Buzunar\Calculator_Buzunar\bin\Debug\Calculator_Buzunar.pdb
+C:\Users\Viorel\source\repos\Calculator_Buzunar\Calculator_Buzunar\obj\Debug\Calculator_Buzunar.csprojAssemblyReference.cache
+C:\Users\Viorel\source\repos\Calculator_Buzunar\Calculator_Buzunar\obj\Debug\Calculator_Buzunar.Form1.resources
+C:\Users\Viorel\source\repos\Calculator_Buzunar\Calculator_Buzunar\obj\Debug\Calculator_Buzunar.Properties.Resources.resources
+C:\Users\Viorel\source\repos\Calculator_Buzunar\Calculator_Buzunar\obj\Debug\Calculator_Buzunar.csproj.GenerateResource.cache
+C:\Users\Viorel\source\repos\Calculator_Buzunar\Calculator_Buzunar\obj\Debug\Calculator_Buzunar.csproj.CoreCompileInputs.cache
+C:\Users\Viorel\source\repos\Calculator_Buzunar\Calculator_Buzunar\obj\Debug\Calculator_Buzunar.exe
+C:\Users\Viorel\source\repos\Calculator_Buzunar\Calculator_Buzunar\obj\Debug\Calculator_Buzunar.pdb
+D:\Calculator final\Calculator_Buzunar\Calculator_Buzunar\bin\Debug\Calculator_Buzunar.exe.config
+D:\Calculator final\Calculator_Buzunar\Calculator_Buzunar\bin\Debug\Calculator_Buzunar.exe
+D:\Calculator final\Calculator_Buzunar\Calculator_Buzunar\bin\Debug\Calculator_Buzunar.pdb
+D:\Calculator final\Calculator_Buzunar\Calculator_Buzunar\obj\Debug\Calculator_Buzunar.csprojAssemblyReference.cache
+D:\Calculator final\Calculator_Buzunar\Calculator_Buzunar\obj\Debug\Calculator_Buzunar.Form1.resources
+D:\Calculator final\Calculator_Buzunar\Calculator_Buzunar\obj\Debug\Calculator_Buzunar.Properties.Resources.resources
+D:\Calculator final\Calculator_Buzunar\Calculator_Buzunar\obj\Debug\Calculator_Buzunar.csproj.GenerateResource.cache
+D:\Calculator final\Calculator_Buzunar\Calculator_Buzunar\obj\Debug\Calculator_Buzunar.csproj.CoreCompileInputs.cache
+D:\Calculator final\Calculator_Buzunar\Calculator_Buzunar\obj\Debug\Calculator_Buzunar.exe
+D:\Calculator final\Calculator_Buzunar\Calculator_Buzunar\obj\Debug\Calculator_Buzunar.pdb
+C:\Users\coste\Desktop\Atestat\Calculator_Buzunar\Calculator_Buzunar\bin\Debug\Calculator_Buzunar.exe.config
+C:\Users\coste\Desktop\Atestat\Calculator_Buzunar\Calculator_Buzunar\bin\Debug\Calculator_Buzunar.exe
+C:\Users\coste\Desktop\Atestat\Calculator_Buzunar\Calculator_Buzunar\bin\Debug\Calculator_Buzunar.pdb
+C:\Users\coste\Desktop\Atestat\Calculator_Buzunar\Calculator_Buzunar\obj\Debug\Calculator_Buzunar.csprojAssemblyReference.cache
+C:\Users\coste\Desktop\Atestat\Calculator_Buzunar\Calculator_Buzunar\obj\Debug\Calculator_Buzunar.Form1.resources
+C:\Users\coste\Desktop\Atestat\Calculator_Buzunar\Calculator_Buzunar\obj\Debug\Calculator_Buzunar.Properties.Resources.resources
+C:\Users\coste\Desktop\Atestat\Calculator_Buzunar\Calculator_Buzunar\obj\Debug\Calculator_Buzunar.csproj.GenerateResource.cache
+C:\Users\coste\Desktop\Atestat\Calculator_Buzunar\Calculator_Buzunar\obj\Debug\Calculator_Buzunar.csproj.CoreCompileInputs.cache
+C:\Users\coste\Desktop\Atestat\Calculator_Buzunar\Calculator_Buzunar\obj\Debug\Calculator_Buzunar.exe
+C:\Users\coste\Desktop\Atestat\Calculator_Buzunar\Calculator_Buzunar\obj\Debug\Calculator_Buzunar.pdb
